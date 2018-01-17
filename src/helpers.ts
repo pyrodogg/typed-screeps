@@ -1,4 +1,5 @@
 interface _HasRoomPosition {
+    id: string;
     pos: RoomPosition;
 }
 

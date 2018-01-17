@@ -1117,6 +1117,7 @@ interface Game {
 
 declare let Game: Game;
 interface _HasRoomPosition {
+    id: string;
     pos: RoomPosition;
 }
 
